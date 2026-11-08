@@ -1,0 +1,7 @@
+HISTORICO DO PROJETO
+
+Primeira versão:
+Criação do sistema de controle de abastecimento.
+
+Segunda versão:
+Adicionada funcionalidade de cálculo de consumo médio.
